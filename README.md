@@ -4,9 +4,9 @@ You can see this live here at [prettygraham.com](https://prettygraham.com/blog).
 
 Like most entreprenurs in the world, I read Paul Graham's website weekly. He has some of the most thoughtful, and interesting takes on everything from [startups](http://www.paulgraham.com/ds.html) to [having kids](http://www.paulgraham.com/kids.html).
 
-However as a designer, I can't help but cringe every time I read Paul Graham's website. Don't get me wrong, the guy has some seriously insightful thoughts on everything from startups to raising kids. But let's be real, his website looks like it was made in the 90s. So I've decided to take matters into my own hands and give his blog a much-needed facelift.
+However as a man of pixels, I can't help but cringe every time I read Paul Graham's website. Don't get me wrong, he's amazing. But let's be real, his website looks like it was made in the 90s. So I've decided to take matters into my own hands and give his blog a much-needed facelift.
 
-Now, before you start sending angry emails, let me be clear: all of the content on the new and improved site is still straight from Paul's brilliant mind. I just made it a little easier on the ol' eyes. Check the OG out for yourself at [paulgraham.com](<(http://www.paulgraham.com/index.html)>).
+Now, before you start sending angry emails, let me be super clear: all of the content on the new and improved site is still straight from Paul's brilliant mind. I just made it a little easier on the ol' eyes. Check the OG out for yourself at [paulgraham.com](http://www.paulgraham.com/index.html).
 
 And Paul, if you're reading this, please don't sue me 🙏
 
