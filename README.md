@@ -41,11 +41,6 @@ Due to how I scraped the data, I couldn't keep the paragraghs formatting so inst
 - Preconfigured security headers
 - SEO friendly with RSS feed, sitemaps and more!
 
-## Todo
-
-2. Somehow add spacing to blogs
-3. Deploy on vercel
-
 ## Installation
 
 ```bash
