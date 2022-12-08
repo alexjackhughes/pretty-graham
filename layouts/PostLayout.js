@@ -47,7 +47,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </div>
           </header>
           <div
-            className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
+            className="divide-y divide-gray-200 pb-8 text-2xl dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <dl className="pt-6 pb-10 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
@@ -94,7 +94,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 {` • `}
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
-              <Comments frontMatter={frontMatter} />
+              {/* <Comments frontMatter={frontMatter} /> */}
             </div>
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">

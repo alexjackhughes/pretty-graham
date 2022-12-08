@@ -36,7 +36,6 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help ð
 
 ## Todo
 
-1. Improve navigation
 2. Add blog posts
 3. Deploy on Vercel
 
