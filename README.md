@@ -10,6 +10,7 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help ð
 
 ## Features
 
+- I've included the python script in "/scraping" for people curious about how I got the articles
 - Easy styling customization with [Tailwind 3.0](https://tailwindcss.com/blog/tailwindcss-v3) and primary color attribute
 - Near perfect lighthouse score - [Lighthouse report](https://www.webpagetest.org/result/221104_AiDc59_4WF/)
 - Lightweight, 45kB first load JS, uses Preact in production build
@@ -36,8 +37,12 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help ð
 
 ## Todo
 
-2. Add blog posts
-3. Deploy on Vercel
+1. fix formatting bugs
+2. somehow add spacing
+3. somehow add dates properly
+4. somehow add better tags to all blogs
+5. Deploy on vercel
+6. Add domain
 
 ## Installation
 
