@@ -10,6 +10,10 @@ Now, before you start sending angry emails, let me be clear: all of the content 
 
 And Paul, if you're reading this, please don't sue me 🙏
 
+## Notes
+
+Due to how I scraped the data, I couldn't keep the paragraghs formatting so instead I wrote a function that roughly splits text by character count. I'm guessing most people won't notice, but there's not shot I'm pressing enter a billion times.
+
 ## Features
 
 - I've included the python script in "/scraping" for people curious about how I got the articles
