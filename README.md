@@ -1,5 +1,3 @@
-![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
-
 # Pretty Graham
 
 Like most entreprenurs in the world, I read Paul Graham's website weekly. He has some of the most thoughtful, and interesting takes on everything from [startups](http://www.paulgraham.com/ds.html) to [having kids](http://www.paulgraham.com/kids.html).
@@ -38,14 +36,11 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help ð
 
 ## Todo
 
-2. Personalize `siteMetadata.js` (site related information)
-3. Modify the content security policy in `next.config.js` if you want to use
-   any analytics provider or a commenting solution other than giscus.
-4. Personalize `authors/default.md` (main author)
-5. Modify `projectsData.js`
-6. Modify `headerNavLinks.js` to customize navigation links
-7. Add blog posts
-8. Deploy on Vercel
+1. Update the images
+2. Modify `projectsData.js`
+3. Modify `headerNavLinks.js` to customize navigation links
+4. Add blog posts
+5. Deploy on Vercel
 
 ## Installation
 

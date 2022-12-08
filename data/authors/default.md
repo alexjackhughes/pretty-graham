@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Paul Graham
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Co-Founder
+company: Y Combinator
+email: paul@graham.com
+twitter: https://twitter.com/paulg
+linkedin: https://www.linkedin.com/in/paulg
+github: https://github.com/in/paulgraham
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Paul Graham is a programmer, writer, and investor. In 1995, he and Robert Morris started Viaweb, the first software as a service company. Viaweb was acquired by Yahoo in 1998, where it became Yahoo Store. In 2001 he started publishing essays on paulgraham.com, which now gets around 25 million page views per year. In 2005 he and Jessica Livingston, Robert Morris, and Trevor Blackwell started Y Combinator, the first of a new type of startup incubator. Since 2005 Y Combinator has funded over 3000 startups, including Airbnb, Dropbox, Stripe, and Reddit. In 2019 he published a new Lisp dialect written in itself called Bel.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Paul is the author of On Lisp (Prentice Hall, 1993), ANSI Common Lisp (Prentice Hall, 1995), and Hackers & Painters (O'Reilly, 2004). He has an AB from Cornell and a PhD in Computer Science from Harvard, and studied painting at RISD and the Accademia di Belle Arti in Florence.
