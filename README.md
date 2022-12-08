@@ -36,11 +36,9 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help ð
 
 ## Todo
 
-1. Update the images
-2. Modify `projectsData.js`
-3. Modify `headerNavLinks.js` to customize navigation links
-4. Add blog posts
-5. Deploy on Vercel
+1. Improve navigation
+2. Add blog posts
+3. Deploy on Vercel
 
 ## Installation
 
