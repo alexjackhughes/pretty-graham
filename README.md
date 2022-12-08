@@ -6,7 +6,7 @@ However as a designer, I can't help but cringe every time I read Paul Graham's w
 
 Now, before you start sending angry emails, let me be clear: all of the content on the new and improved site is still straight from Paul's brilliant mind. I just made it a little easier on the ol' eyes. Check the OG out for yourself at [paulgraham.com](<(http://www.paulgraham.com/index.html)>).
 
-And Paul, if you're reading this, please don't sue me. I'm just trying to help 🙏
+And Paul, if you're reading this, please don't sue me 🙏
 
 ## Features
 
@@ -37,12 +37,10 @@ And Paul, if you're reading this, please don't sue me. I'm just trying to help �
 
 ## Todo
 
-1. fix formatting bugs
 2. somehow add spacing
-3. somehow add dates properly
-4. somehow add better tags to all blogs
-5. Deploy on vercel
-6. Add domain
+3. somehow add better tags to all blogs
+4. Deploy on vercel
+5. Add domain
 
 ## Installation
 
