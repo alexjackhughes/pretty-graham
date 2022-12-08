@@ -1,5 +1,7 @@
 # Pretty Graham
 
+You can see this live here at [prettygraham.com](https://prettygraham.com/blog).
+
 Like most entreprenurs in the world, I read Paul Graham's website weekly. He has some of the most thoughtful, and interesting takes on everything from [startups](http://www.paulgraham.com/ds.html) to [having kids](http://www.paulgraham.com/kids.html).
 
 However as a designer, I can't help but cringe every time I read Paul Graham's website. Don't get me wrong, the guy has some seriously insightful thoughts on everything from startups to raising kids. But let's be real, his website looks like it was made in the 90s. So I've decided to take matters into my own hands and give his blog a much-needed facelift.
@@ -37,10 +39,8 @@ And Paul, if you're reading this, please don't sue me 🙏
 
 ## Todo
 
-2. somehow add spacing
-3. somehow add better tags to all blogs
-4. Deploy on vercel
-5. Add domain
+2. Somehow add spacing to blogs
+3. Deploy on vercel
 
 ## Installation
 
